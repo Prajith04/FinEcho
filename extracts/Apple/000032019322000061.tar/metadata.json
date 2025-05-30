@@ -1,0 +1,71 @@
+{
+  "sec-document": "0000320193-22-000061.txt : 20220506",
+  "sec-header": "0000320193-22-000061.hdr.sgml : 20220506",
+  "acceptance-datetime": "20220506183057",
+  "accession-number": "0000320193-22-000061",
+  "type": "4",
+  "public-document-count": "1",
+  "period": "20220504",
+  "filing-date": "20220506",
+  "date-of-filing-date-change": "20220506",
+  "reporting-owner": {
+    "owner-data": {
+      "conformed-name": "Adams Katherine L.",
+      "cik": "0001462356"
+    },
+    "filing-values": {
+      "form-type": "4",
+      "act": "1934 Act",
+      "file-number": "001-36743",
+      "film-number": "22902747"
+    },
+    "mail-address": {
+      "street-1": "APPLE INC.",
+      "street-2": "1 INFINITE LOOP",
+      "city": "CUPERTINO",
+      "state": "CA",
+      "zip": "95014"
+    }
+  },
+  "issuer": {
+    "company-data": {
+      "conformed-name": "Apple Inc.",
+      "cik": "0000320193",
+      "assigned-sic": "3571",
+      "irs-number": "942404110",
+      "state-of-incorporation": "CA",
+      "fiscal-year-end": "0924"
+    },
+    "business-address": {
+      "street-1": "ONE APPLE PARK WAY",
+      "city": "CUPERTINO",
+      "state": "CA",
+      "zip": "95014",
+      "phone": "(408) 996-1010"
+    },
+    "mail-address": {
+      "street-1": "ONE APPLE PARK WAY",
+      "city": "CUPERTINO",
+      "state": "CA",
+      "zip": "95014"
+    },
+    "former-company": [
+      {
+        "former-conformed-name": "APPLE INC",
+        "date-changed": "20070109"
+      },
+      {
+        "former-conformed-name": "APPLE COMPUTER INC",
+        "date-changed": "19970808"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "type": "4",
+      "sequence": "1",
+      "filename": "wf-form4_165187623819106.xml",
+      "description": "FORM 4"
+    }
+  ]
+}
